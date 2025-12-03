@@ -2,7 +2,7 @@
 ### 📊 Aspiring Data Analyst | SQL | Excel | Tableau | Power BI | Python
 
 📞 **Phone:** 7908815512  
-📧 **Email:** kaifsidd2003.work@gmail.com  
+📧 **Email:** kaifsidd2003@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/kaiffiroz/
 
 ---
