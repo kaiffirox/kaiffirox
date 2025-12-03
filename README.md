@@ -11,7 +11,7 @@
 BBA Graduate with hands-on experience in **SQL, Excel, Tableau, Power BI, and Python (Learning)**.  
 I have completed multiple data analysis projects and virtual internships with **Deloitte** and **BCG**, where I practiced real-world business problem-solving, data cleaning, visualization, and communication.
 
-Currently seeking opportunities to apply my analytical skills and contribute to **data-driven decision making**, especially through Google’s **Data Analytics Apprenticeship**.
+Currently seeking opportunities to apply my analytical skills and contribute to data-driven decision making, while working toward my goal of becoming a skilled Senior Data Analyst who leads impactful projects and supports the strategic growth of the organization. Alongside this journey, I also plan to pursue an MBA abroad in the next five years to strengthen my leadership, business, and strategic thinking skills—helping me evolve into a well-rounded analytics professional.
 
 ---
 
