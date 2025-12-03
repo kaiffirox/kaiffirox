@@ -52,7 +52,7 @@ Currently seeking opportunities to apply my analytical skills and contribute to 
 
 ## 🎓 Certifications
 - SQL: MySQL for Data Analytics and BI  
-- Power BI for Data Analysts – Maven Analytics  
+- Microsoft Power BI Desktop for Business Intelligence – Maven Analytics  
 - Deloitte & BCG Virtual Internships (Forage)
 
 ---
